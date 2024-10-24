@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ayitey Adamah</h1>
-<h3 align="center">Dedicated and enthusiastic cybersecurity professional with a strong foundation in information security principles and practices. Eager to contribute my skills and knowledge to safeguard digital assets and mitigate threats. Adept at analyzing vulnerabilities, implementing protective measures, and assisting in incident response. Committed to staying current with emerging threats and technologies through continuous learning.</h3>
+<h3 align="center">Dedicated and technically proficient IT personnel with a strong foundation in cloud computing, cybersecurity, computer systems and networking. Possesses excellent problem-solving abilities, a keen eye for detail, and a passion for technology. Eager to contribute technical expertise and grow in a dynamic IT environment. Committed to staying current with emerging threats and technologies through continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamah2&label=Profile%20views&color=0e75b6&style=flat" alt="adamah2" /> </p>
 
