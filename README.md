@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bossu_adm" target="blank"><img src="https://img.shields.io/twitter/follow/bossu_adm?logo=twitter&style=for-the-badge" alt="bossu_adm" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👯 I’m looking to collaborate on **AWS**
 
